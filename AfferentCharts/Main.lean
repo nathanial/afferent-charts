@@ -1,5 +1,4 @@
+import AfferentCharts.Canopy.Widget.Charts
+
 namespace AfferentCharts
-
--- Your code here
-
 end AfferentCharts
