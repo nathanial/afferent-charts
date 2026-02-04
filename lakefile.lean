@@ -4,7 +4,7 @@ open Lake DSL
 package afferent_charts where
   version := v!"0.1.0"
 
-require afferent from "../afferent"
+require afferent from git "https://github.com/nathanial/afferent" @ "v0.0.15"
 require crucible from git "https://github.com/nathanial/crucible" @ "v0.0.10"
 
 -- Common link arguments for macOS framework dependencies via Afferent
